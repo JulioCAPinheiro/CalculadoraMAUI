@@ -1,0 +1,1 @@
+C:\Users\juces\OneDrive\Documentos\C#\MauiCalculadora\MauiCalculadora\MauiCalculadora.csproj;x64
